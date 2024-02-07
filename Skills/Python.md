@@ -1,4 +1,3 @@
-
 ### Object Orientated Programming (OOP)
 
 - realpython.com/python3-object-orientated-programming/

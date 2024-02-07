@@ -6,6 +6,8 @@ Copy
 - Ctrl + Insert
 Paste
 - Ctrl + Shift + V
+Show hidden folder
+- Ctrl + H
 
 ### Terminal
 
@@ -21,3 +23,8 @@ Quit
 - Ctrl + C
 Autofill check
 - Tab
+
+### Mac
+
+Cmd + Shift + .
+- Show and hide hidden folder

@@ -39,4 +39,4 @@ Eg. git@github.com:chebra14/git101.git
 
 ### **Step 4: Getting an existing repository from GitHub**
 
-- Git clone (URL) Name
+- Git clone (URL)
