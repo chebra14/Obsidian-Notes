@@ -16,7 +16,7 @@ Have repository ready
 Eg. git@github.com:chebra14/git101.git
 
 - Git remote add origin (URL)
-(For Linux - git branch -M main)
+- git branch -M main
 - Git push -u origin main 
 
 - Enter password (Big12)

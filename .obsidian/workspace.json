@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills/Python.md",
+                "file": "Skills/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills/Python.md",
+                "file": "Skills/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills/Python.md",
+                "file": "Skills/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills/Python.md"
+                "file": "Skills/Git.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "103e7d3c5ea2dace",
   "lastOpenFiles": [
-    "Skills/Git.md",
+    "Skills/ROS2.md",
     "Skills/Python.md",
+    "Skills/Git.md",
     "Skills/VS Code.md",
     "Skills/Shortcuts.md",
     "Theory Notes/Video Notes/Introduction to Trajectory Optimization.md",
@@ -183,7 +184,6 @@
     "Theory Notes",
     "Daily Notes/2024-02-05.md",
     "Skills/ROS Between Mac and Linux.md",
-    "Skills/ROS2.md",
     "Skills/Terminal.md",
     "Admin/Notepad.md",
     "Attachments/Drifting vs Grip Theory.pdf",
