@@ -20,29 +20,19 @@
             }
           },
           {
-            "id": "c5b7d15440651f03",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Admin/Introduction to F1Tenth Racing Research 2024.pdf"
-              }
-            }
-          },
-          {
             "id": "103e7d3c5ea2dace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills/VS Code.md",
+                "file": "Theory Notes/Papers Notes/Pursuit Controller (Becker, et. al - 2023).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills/VS Code.md",
+                "file": "Theory Notes/Papers Notes/Pursuit Controller (Becker, et. al - 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills/VS Code.md",
+                "file": "Theory Notes/Papers Notes/Pursuit Controller (Becker, et. al - 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills/VS Code.md"
+                "file": "Theory Notes/Papers Notes/Pursuit Controller (Becker, et. al - 2023).md"
               }
             }
           }
@@ -171,24 +161,28 @@
   },
   "active": "103e7d3c5ea2dace",
   "lastOpenFiles": [
-    "Skills/Git.md",
+    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "Theory Notes/Papers Notes/Pursuit Controller (Becker, et. al - 2023).md",
+    "2024-02-13.md",
+    "Admin/My Focus.pdf",
+    "Admin/What I Want To Do.md",
+    "Admin/Understanding My Problem.md",
     "Skills/Python.md",
+    "Skills/VS Code.md",
+    "Skills/Git.md",
     "Skills/ROS Between Mac and Linux.md",
     "Skills/ROS2.md",
     "Skills/Shortcuts.md",
     "Skills/Skills To Develop.md",
     "Skills/Terminal.md",
-    "Skills/VS Code.md",
     "Theory Notes/Video Notes/Introduction to Trajectory Optimization.md",
     "Attachments/Screenshot 2024-02-05 at 09.58.53.png",
-    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "Untitled",
     "Theory Notes/Video Notes",
     "Theory Notes",
     "Daily Notes/2024-02-05.md",
     "Admin/Notepad.md",
     "Attachments/Drifting vs Grip Theory.pdf",
-    "Admin/What I Want To Do.md",
     "Daily Notes/2024-01-31.md",
     "Daily Notes/2024-01-29.md",
     "Theory Notes/Papers Notes/Survey (Betz, et. al - 2022).md",

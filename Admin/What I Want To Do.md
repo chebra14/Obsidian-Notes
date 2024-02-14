@@ -32,3 +32,12 @@ The friction must be mapped for different inputs. This map tells the car **HOW**
 A control system is required to do the slide.
 
 Simplistically, there must be a light to come on when the car is at the intended friction limit.
+
+
+### GOAL:
+
+Run a simulation that can create an algorithm to estimate how much slipping is required based on the frictional coefficient.
+
+Create a model that uses steering and acceleration as an input that affects cornering force.
+
+The cars weight has to do with the inertia, and when you can get back on throttle. Hence the lighter cars will grip up and turn better.
