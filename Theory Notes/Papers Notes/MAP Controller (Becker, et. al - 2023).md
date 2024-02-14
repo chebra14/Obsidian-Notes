@@ -40,3 +40,12 @@ Current SotA
 	- Based on where it wants to go, it generates a steering angle
 	- A large look ahead distance causes corner cutting
 	- A small lookahead causes oscillations
+
+- Identify var dynamics
+- Convert guidance to control commands via a Lookup Table (LUT)
+
+Future work
+- Adaptive tire parameter estimation for the MAP controller
+	- System identification would not need to be computed offline
+- In-depth comparison with MPC for realistic condition
+- Test on a full-scale racecar
