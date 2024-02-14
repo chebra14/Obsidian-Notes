@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-02-13.md",
+                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-02-13.md",
+                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-02-13.md",
+                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-02-13.md"
+                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59ae1eef9819900e",
+  "active": "103e7d3c5ea2dace",
   "lastOpenFiles": [
-    "Theory Notes/Papers Notes/Pursuit Controller (Becker, et. al - 2023).md",
-    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "Daily Notes/2024-02-13.md",
+    "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
+    "Daily Notes/2024-02-05.md",
+    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "Admin/My Focus.pdf",
     "Admin/What I Want To Do.md",
     "Admin/Understanding My Problem.md",
@@ -180,7 +181,6 @@
     "Untitled",
     "Theory Notes/Video Notes",
     "Theory Notes",
-    "Daily Notes/2024-02-05.md",
     "Admin/Notepad.md",
     "Attachments/Drifting vs Grip Theory.pdf",
     "Daily Notes/2024-01-31.md",
