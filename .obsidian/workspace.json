@@ -23,16 +23,26 @@
             "id": "103e7d3c5ea2dace",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Admin/Introduction to F1Tenth Racing Research 2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "2088d3835e76f5e1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
+                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
+                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
+                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md"
+                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md"
               }
             }
           }
@@ -159,12 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "103e7d3c5ea2dace",
+  "active": "2088d3835e76f5e1",
   "lastOpenFiles": [
-    "Daily Notes/2024-02-13.md",
-    "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
-    "Daily Notes/2024-02-05.md",
+    "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
+    "Theory Notes/Racing",
     "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
+    "Daily Notes/2024-02-13.md",
+    "Daily Notes/2024-02-05.md",
     "Admin/My Focus.pdf",
     "Admin/What I Want To Do.md",
     "Admin/Understanding My Problem.md",
@@ -178,7 +190,6 @@
     "Skills/Terminal.md",
     "Theory Notes/Video Notes/Introduction to Trajectory Optimization.md",
     "Attachments/Screenshot 2024-02-05 at 09.58.53.png",
-    "Untitled",
     "Theory Notes/Video Notes",
     "Theory Notes",
     "Admin/Notepad.md",
