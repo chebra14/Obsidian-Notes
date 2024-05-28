@@ -17,13 +17,18 @@ Split Terminal Horizontal
 - Ctrl + Shift + O
 Split Terminal Vertical
 - Ctrl + Shift + E
+Close Terminal
+- Ctrl + Shift + Q
+Close a Split
+- Ctrl + Shift + W
 Navigate Terminals
 - Alt + arrow
 Quit
 - Ctrl + C
 Autofill check
 - Tab
-
+Open Files Explorer at path
+- xdg-open .
 ### Mac
 
 Cmd + Shift + .
