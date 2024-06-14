@@ -67,3 +67,10 @@ Run a simulation that can create an algorithm to estimate how much slipping is r
 Create a model that uses steering and acceleration as an input that affects cornering force.
 
 The cars weight has to do with the inertia, and when you can get back on throttle. Hence the lighter cars will grip up and turn better.
+
+I wanted to simulate wheel spin and wheel lock for the straight line tests.
+The current simulator does not simulate the tire physics for these conditions.
+I’ve implemented a slightly more complex model to model the tire physics based on the Pacejka Magic Formula (Single Track Drift Model).
+This model gives more accurate tire behaviours at high speed, and can simulate the required longitudinal tire behaviour.
+There are a few issues I’m still working on, but it seems promising. 
+From there, I can access a lot of parameters, and work on the “Advanced Longitudinal Traction Control”, of which I’ve had some hints based on the data I’ve gathered from current simulation.

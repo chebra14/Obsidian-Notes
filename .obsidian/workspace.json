@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "537278014adf516d",
+        "id": "2a43f6c730f3eaa7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c322ed37a545af",
+            "id": "729c826ee2efbbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-02-05.md",
+                "file": "Admin/Workflow.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "103e7d3c5ea2dace",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Admin/Introduction to F1Tenth Racing Research 2024.pdf"
-              }
-            }
-          },
-          {
-            "id": "2088d3835e76f5e1",
+            "id": "8e929a3d8b7ff431",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
+                "file": "Tools and Skills/Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
+                "file": "Tools and Skills/Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
+                "file": "Tools and Skills/Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Notes/Racing/The Motor Racing Book Vol. 1.md"
+                "file": "Tools and Skills/Shortcuts.md"
               }
             }
           }
@@ -169,35 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2088d3835e76f5e1",
+  "active": "8e929a3d8b7ff431",
   "lastOpenFiles": [
-    "Theory Notes/Racing/The Motor Racing Book Vol. 1.md",
-    "Theory Notes/Racing",
-    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "Theory Notes/Papers Notes/MAP Controller (Becker, et. al - 2023).md",
-    "Daily Notes/2024-02-13.md",
-    "Daily Notes/2024-02-05.md",
+    "Tools and Skills/Terminal.md",
+    "Tools and Skills/Shortcuts.md",
+    "Tools and Skills/Obsidian.md",
+    "Admin/Workflow.md",
+    "Obsidian",
+    "Research Notes/Resources.md",
+    "Simulation Notes/ROS/Starting the simulator.md",
+    "Simulation Notes/ROS",
+    "Research Notes/Remember to Cite.md",
+    "Research Notes/Video Notes/Introduction to Trajectory Optimization.md",
+    "F1Tenth Notes/Getting the Car Race Ready.md",
+    "F1Tenth Notes/F1Tenth Work Notes.md",
+    "F1Tenth Notes/Driving the Car.md",
+    "F1Tenth Notes/Others Car Notes/Andrew's First Diagram.pdf",
+    "Research Notes/My Notes/HFI Motor Mode.md",
+    "Research Notes/My Notes/Solving the Slip Problem Notepad.md",
+    "Research Notes/My Notes",
+    "Admin/Writing the Paper.md",
+    "Weekly Notes/Semester 1/Term 2/June/17_06 - 21_06.md",
     "Admin/My Focus.pdf",
-    "Admin/What I Want To Do.md",
-    "Admin/Understanding My Problem.md",
-    "Skills/Python.md",
-    "Skills/VS Code.md",
-    "Skills/Git.md",
-    "Skills/ROS Between Mac and Linux.md",
-    "Skills/ROS2.md",
-    "Skills/Shortcuts.md",
-    "Skills/Skills To Develop.md",
-    "Skills/Terminal.md",
-    "Theory Notes/Video Notes/Introduction to Trajectory Optimization.md",
-    "Attachments/Screenshot 2024-02-05 at 09.58.53.png",
-    "Theory Notes/Video Notes",
-    "Theory Notes",
-    "Admin/Notepad.md",
-    "Attachments/Drifting vs Grip Theory.pdf",
-    "Daily Notes/2024-01-31.md",
-    "Daily Notes/2024-01-29.md",
-    "Theory Notes/Papers Notes/Survey (Betz, et. al - 2022).md",
-    "Daily Notes",
-    "Welcome.md"
+    "Admin/Sections to work on.md",
+    "Weekly Notes/Semester 1/Term 2/June/10_06 - 14_06.md",
+    "Simulation Notes/Sim Work Notes.md",
+    "Simulation Notes/Building the STD Sim.md",
+    "Admin/ESL Move.md",
+    "Weekly Notes/Semester 1/Term 2/June/03_06 - 07_06.md",
+    "Weekly Notes/Semester 1/Term 2/May/27_05 - 31_05.md",
+    "Weekly Notes/Semester 1/Term 2/May/20_05 - 24_05.md",
+    "Tools and Skills/VS Code.md",
+    "Tools and Skills/Python.md",
+    "Tools and Skills/MATLAB.md",
+    "F1Tenth Notes/Others Car Notes",
+    "Admin/Voyager Ground Robot Specifications.pdf",
+    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "PocketQube Notes/Willems Initial Pocketqube Notes.pdf",
+    "Research Notes/Racing",
+    "Attachments/Screenshot 2024-02-05 at 09.58.53.png"
   ]
 }

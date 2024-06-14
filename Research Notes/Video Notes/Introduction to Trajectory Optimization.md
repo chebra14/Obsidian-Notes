@@ -1,4 +1,4 @@
-Matthew Kelly -https://www.youtube.com/watch?v=wlkRYMVUZTs
+Matthew Kelly - https://www.youtube.com/watch?v=wlkRYMVUZTs
 
 ### What is trajectory optimisation
 
