@@ -9,6 +9,7 @@ The board that the lidar bounces off is tilted.
 - Pitch back is de-amplified
 If the car veers from the straight the distance from the lidar increases and becomes inaccurate.
 
+Current issue *Can't go backwards
 #### Hardware To Consider
 - Safe LiDAR
 - Safe body

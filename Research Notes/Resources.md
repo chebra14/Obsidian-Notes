@@ -3,6 +3,7 @@
 -  https://www.f1-tempo.com/
 - https://traxxas.com/products/models/electric/6804Rslash4x4platinum?t=overview
 - https://f1tenth.org/
+- https://autorally.github.io/
 
 ##### Remember to cite
 

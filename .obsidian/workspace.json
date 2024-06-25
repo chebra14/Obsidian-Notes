@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "729c826ee2efbbcb",
+            "id": "c7baadf9af3f9456",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e929a3d8b7ff431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools and Skills/Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools and Skills/Shortcuts.md",
+                "file": "Admin/Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools and Skills/Shortcuts.md",
+                "file": "Admin/Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools and Skills/Shortcuts.md"
+                "file": "Admin/Workflow.md"
               }
             }
           }
@@ -159,42 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e929a3d8b7ff431",
+  "active": "c7baadf9af3f9456",
   "lastOpenFiles": [
-    "Tools and Skills/Terminal.md",
     "Tools and Skills/Shortcuts.md",
+    "Tools and Skills/Terminal.md",
+    "Tools and Skills/VS Code.md",
+    "Weekly Notes/Semester 1/Term 2/May/20_05 - 24_05.md",
+    "Weekly Notes/Semester 1/Term 2/May/27_05 - 31_05.md",
+    "Weekly Notes/Semester 1/Term 2/June/03_06 - 07_06.md",
+    "Weekly Notes/Semester 1/Term 2/June/17_06 - 21_06.md",
     "Tools and Skills/Obsidian.md",
-    "Admin/Workflow.md",
-    "Obsidian",
     "Research Notes/Resources.md",
-    "Simulation Notes/ROS/Starting the simulator.md",
-    "Simulation Notes/ROS",
-    "Research Notes/Remember to Cite.md",
-    "Research Notes/Video Notes/Introduction to Trajectory Optimization.md",
-    "F1Tenth Notes/Getting the Car Race Ready.md",
-    "F1Tenth Notes/F1Tenth Work Notes.md",
-    "F1Tenth Notes/Driving the Car.md",
-    "F1Tenth Notes/Others Car Notes/Andrew's First Diagram.pdf",
+    "Admin/ESL Move.md",
+    "Admin/Workflow.md",
+    "Admin/Writing the Paper.md",
+    "Tools and Skills/MATLAB.md",
+    "Tools and Skills/Git.md",
+    "Weekly Notes/Semester 1/Term 2/June/24_06 - 28_06.md",
     "Research Notes/My Notes/HFI Motor Mode.md",
     "Research Notes/My Notes/Solving the Slip Problem Notepad.md",
-    "Research Notes/My Notes",
-    "Admin/Writing the Paper.md",
-    "Weekly Notes/Semester 1/Term 2/June/17_06 - 21_06.md",
-    "Admin/My Focus.pdf",
-    "Admin/Sections to work on.md",
-    "Weekly Notes/Semester 1/Term 2/June/10_06 - 14_06.md",
-    "Simulation Notes/Sim Work Notes.md",
     "Simulation Notes/Building the STD Sim.md",
-    "Admin/ESL Move.md",
-    "Weekly Notes/Semester 1/Term 2/June/03_06 - 07_06.md",
-    "Weekly Notes/Semester 1/Term 2/May/27_05 - 31_05.md",
-    "Weekly Notes/Semester 1/Term 2/May/20_05 - 24_05.md",
-    "Tools and Skills/VS Code.md",
-    "Tools and Skills/Python.md",
-    "Tools and Skills/MATLAB.md",
+    "Simulation Notes/Sim Work Notes.md",
+    "F1Tenth Notes/F1Tenth Work Notes.md",
+    "F1Tenth Notes/Stack Changes.md",
+    "F1Tenth Notes/Driving the Car.md",
+    "F1Tenth Notes/Getting the Car Race Ready.md",
+    "F1Tenth Notes/Others Car Notes/Andrew's First Diagram.pdf",
+    "Weekly Notes/Semester 1/Term 2/July/15_07 - 19_07.md",
+    "Weekly Notes/Semester 1/Term 2/July/08_07 - 12_07.md",
+    "Weekly Notes/Semester 1/Term 2/July/01_07 - 05_07.md",
+    "Admin/My Focus.pdf",
+    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
+    "Obsidian",
+    "Simulation Notes/ROS",
+    "Research Notes/My Notes",
     "F1Tenth Notes/Others Car Notes",
     "Admin/Voyager Ground Robot Specifications.pdf",
-    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "PocketQube Notes/Willems Initial Pocketqube Notes.pdf",
     "Research Notes/Racing",
     "Attachments/Screenshot 2024-02-05 at 09.58.53.png"

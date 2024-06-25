@@ -30,6 +30,7 @@ Autofill check
 Open Files Explorer at path
 - xdg-open .
 ### Mac
+https://support.apple.com/en-za/102650
 
 Cmd + Shift + .
 - Show and hide hidden folder
@@ -39,24 +40,8 @@ Cmd + Shift + 3
 - Screen shot everything to clipboard
 Cmd + Shift + 5
 - Select Screen shot to clipboard 
-
-#### Obsidian backup from Mac
-
-```bash
-cd OneDrive\ -\ Stellenbosch\ University
-cd Masters
-cd Masters\ Notes-Brandon’s\ MacBook\ Pro
-cd Obsidian-Notes
-```
-
-```bash
-git status
-git add .
-git commit -m "Message"
-git push -u origin main
-```
-
-
+Cmd + "Down Arrow"
+- Open file
 #### Apple Notes:
 Cmd + Shift + 7
 - Bullet

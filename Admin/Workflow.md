@@ -4,6 +4,11 @@
 - ![[Resources#Websites]]
 - See favourited websites on Firefox for 'Resources'
 
+Sim racing resources:
+- Suellio Telemetry Coach
+	- https://telemetry.themotorracingcoach.com/login
+- Track Titian
+
 #### Social
 
 - YouTube (See created playlists)
@@ -14,7 +19,7 @@
 #### Other Storage
 
 - OneDrive (main), (ideas - formalised)
-- Red_1 Notebook (ideas - messy)
+- Apple Notes (ideas - messy)
 - Brandon_128 (used as a buffer and weekly storage)
 
 ### Work
@@ -52,7 +57,32 @@
 
 - OneDrive Folder for storage
 - Obsidian for all notes and tasks
-- Notability for handwritten notes (iPad)
+- Notes for handwritten notes (iPad)
 - Outlook for emails
 - Slack for contacting
 - Teams for meetings
+- KeyNote for presentations
+
+Use the iPad for travelling
+- Communication
+- Presenting the Weekly presentations
+- Taking notes and writing (Instead of exam pad)
+
+#### Obsidian backup from Mac
+
+```bash
+cd OneDrive\ -\ Stellenbosch\ University
+cd Masters
+cd Masters\ Notes-Brandon’s\ MacBook\ Pro
+cd Obsidian-Notes
+```
+
+```bash
+git status
+git add .
+git commit -m "Message"
+```
+
+```bash
+git push -u origin main
+```
