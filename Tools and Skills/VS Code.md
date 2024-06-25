@@ -7,3 +7,6 @@ shift tab is indent back
 ctrl ] is indent forward
 
 control ? is comment and uncomment
+
+**Trying to get Simulator working on VS Code on Mac:**
+use zsh not python terminal

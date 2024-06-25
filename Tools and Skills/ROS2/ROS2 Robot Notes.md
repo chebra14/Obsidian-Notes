@@ -1,0 +1,4 @@
+- ros2 topic:
+	- echo [/topic]
+	- info [/topic]
+- In Ros2 we basically create subscribers or publishers to these topics to do things with the robots
