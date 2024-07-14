@@ -14,6 +14,24 @@ not lower than 3.5/Cell
 - Plug the wires into the battery with these orientation, with the JST connected to the far left 4 pins on the checker
 - The checker should beep and display the voltage of each cell and the total voltage
 
+Charging the battery (EZ-peak Dual)
+- Plug the charger to the wall
+	- The charger will Flash the LEDs (Run upwards direction) while standing by
+- Connect the battery as shown:
+- ![[Traxxas Charger.jpeg]]
+- Press and hold the "Charge rate select" button and the "START/STOP" button together until there is a beep
+- Use the selector button to make sure the light is on balance charge
+- Use the selector button to make sure the battery type is on LiPO
+- Use the "Charge rate selector" button to choose 3A
+	- All of these elections is confirmed by the corresponding LED on next to the label
+- Hold down the "START/STOP" for a second or 2 for the charging to start
+- The charger will make a sound when it starts
+	- The green light at the top will blink while charging
+	- The RED current lights will go up to 3A from 1A while charging
+- When charging is done, the green light will be steady and the charger will make a sound
+	- May have to remove when the light is at 3A.
+- Remove the battery and turn off the charger
+
 Plug the following accessories to communicate with the car:
 - Monitor (HDMI)
 - Keyboard (USB)

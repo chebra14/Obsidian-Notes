@@ -8,10 +8,10 @@ Devices Used:
 
 Everything used on the devices:
 - OneDrive
-- Firefox
+- Firefox and Chrome
 	- Git (https://github.com/)
 	- Mendeley (https://www.mendeley.com/reference-manager/library/all-references/)
-	- Courses
+	- Courses (Chrome)
 - Obsidian
 - Slack
 - Outlook
@@ -29,8 +29,8 @@ This is where multiple resources are used to collect information and ideas
 			- Git
 			- Mendeley
 		- Google search and ChatGPT to search information
-		- Courses
-			- ![[Resources#Courses]]
+	- Courses (Open in Chrome)
+		- chrome://bookmarks/?id=39
 
 - Books, papers, etc
 	- Upload to Mendeley (see Firefox bookmarks)

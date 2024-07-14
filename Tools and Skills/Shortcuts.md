@@ -42,6 +42,10 @@ Cmd + Shift + 5
 - Select Screen shot to clipboard 
 Cmd + "Down Arrow"
 - Open file
+Cmd + Shift + .
+- Toggle hidden folders
+Cmd + Q
+- Quit a window
 #### Apple Notes:
 Cmd + Shift + 7
 - Bullet
