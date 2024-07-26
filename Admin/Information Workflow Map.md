@@ -57,7 +57,8 @@ Apple Notes
 - Done on the iPad, and synced on iCloud to MacBook
 
 Syncing:
-- Work done on the linux machine is pushed to Git
+- Work done on the linux machine and Obsidian is pushed to Git
+	- ![[Git#Obsidian backup from Mac]]
 - Share.txt in Masters OneDrive is used to send quick things for Copy+Paste
 - Brandon_128 used as a buffer for files when simple
 
