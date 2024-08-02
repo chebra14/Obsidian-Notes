@@ -1,43 +1,9 @@
-## Week 26
+OUR CAR HAS A SHAFT-DRIVEN, DIRECT DRIVE 4WD
+- Torque-Control™ slipper clutch system
 
-#### General
+![[Traxxas 4WD.png]]
 
-- [x] Update weekly schedule
-- [x] Make document for Ben
-
-- [x] Confirm with Johnwin about Friday (Kobie clash)
-- [x] ESL hoodie
-
-#### Practical
-
-- [ ] Car safety ("Roll Cage")
-	- [ ] Body safe
-	- [ ] LiDAR safe
-	- [ ] Implement Camera mount
-- [x] Try to get the mini-voyager moving
-- [ ] Implement batteries on baby-voyager 
-- [ ] Make a box for the baby-voyager
-
-- [x] Check the drivetrain of the F1Tenth car
-#### Simulator
-
-- [ ] Simulate the $\omega_{wheel}$, $\dot{v}_{car}$, and $\psi_{car}$ sense
-	- [ ] Test algorithm
-#### Research Eng
-
-- [ ] Look at Auto-rally
-- [ ] Look at Audi AWD TC
-- [ ] Compare the 2 and find out how to detect slipping that way
-	- [ ] Look at car velocity sensing
-	- [ ] Look at wheel velocity sensor
-- [ ] Look at extreme seeking control
-
-- [x] Convert Ackerman to differential
-#### Research Racing
-
-#### PocketQube
-
-#### Notes
+The Slash 4X4 Ultimate uses just three gear meshes to drive all four wheels, eliminating the need for a multi-gear transmission. The highly efficient drivetrain spins effortlessly on rubber-sealed ball bearings, and is integrated seamlessly into the Slash 4X4 Ultimate's unique low-CG chassis for optimum performance and easy maintenance. The center driveshaft is formed from extruded aluminum and extremely lightweight, contributing to the Slash 4X4 Ultimate's right-now acceleration. There are no dogbones to wear, no drive cups to wobble and the shaft runs perfectly straight and true with superior rigidity and durability.
 
 **23/07/2024**
 
@@ -102,69 +68,3 @@ The final disadvantage of a center diff is that it does not protect the drivetra
 Conclusion
 
 I hope you learned a few things about slipper clutches and center diffs and how they work.  It took me some serious thinking and research to figure out exactly why a center diff was better (and sometimes worse) for racing, and I hope I’ve shared that knowledge with you.
-
-CHATGPT: (26/07/2024)
-
-You can create a function that relates skid steer (differential steering) to Ackermann steering in terms of turning radius. Both types of steering have different mechanisms for turning, but they can be mathematically related by focusing on the turning radius.
-
-### Key Concepts
-
-1. **Ackermann Steering**:
-    
-    - This involves turning the front wheels at different angles to achieve a specific turning radius. The steering angle $\theta$ is related to the turning radius $R$ by the wheelbase $L$ (distance between the front and rear axles) and the speed of the vehicle.
-2. **Skid Steer (Differential Steering)**:
-    
-    - In this type of steering, the left and right wheels are driven at different speeds. The difference in speed between the left and right wheels creates a turning radius $R$. The turning radius is influenced by the width of the vehicle $W$ (distance between the left and right wheels) and the speed difference.
-
-### Mathematical Relationship
-
-For a vehicle using Ackermann steering, the turning radius $R$ can be expressed as:
-
-$R = \frac{L}{\tan(\theta)}$
-
-Where:
-
-- $L$ is the wheelbase.
-- $\theta$ is the steering angle of the front wheels.
-
-For a skid steer vehicle, the turning radius $R$ can be expressed as:
-
-$R=\frac{W}{2}×\frac{v_{\text{left}}+v_{\text{right}}}{v_{\text{left}}−v_{\text{right}}}$
-
-Where:
-
-- $W$ is the width of the vehicle.
-- $v_{\text{left}}$ and $v_{\text{right}}$ are the speeds of the left and right wheels, respectively.
-
-### Function to Relate Ackermann Steering Angle to Skid Steer Speed Difference
-
-To relate the steering angle $\theta$ in an Ackermann steering system to the wheel speeds in a skid steer system for the same turning radius $R$, you can set the two expressions for $R$ equal to each other and solve for the desired variables.
-
-Given:
-$R=\frac{L}{\tan⁡(\theta)}=\frac{W}{2}×\frac{v_{\text{left}}+v_{\text{right}}}{v_{\text{left}}−v_{\text{right}}}$
-
-### Solving for $v_{\text{left}}$ and $v_{\text{right}}$
-
-Rearrange the equation to isolate $v_{\text{left}}$ and $v_{\text{right}}$​. For simplicity, let's introduce a variable $k$ where:
-
-$k = \frac{L}{W} \tan(\theta)$
-
-Thus the equation becomes:
-
-$2k = \frac{v_{\text{left}} + v_{\text{right}}}{v_{\text{left}} - v_{\text{right}}}$
-
-Multiply both sides by ($v_{\text{left}} - v_{\text{right}}$) to get:
-
-$2k(v_{\text{left}} - v_{\text{right}}) = v_{\text{left}} + v_{\text{right}}$
-
-Distribute and rearrange to find $v_{\text{left}}$ and $v_{\text{right}}$:
-
-$2k(v_{\text{left}} - v_{\text{right}}) = v_{\text{left}} + v_{\text{right}}$
-
-$(2k - 1)v_{\text{left}} = (2k + 1)v_{\text{right}}$
-
-Now, solve for $v_{\text{left}}$ and $v_{\text{right}}$​:
-
-$v_{\text{left}} = \frac{(2k + 1)}{(2k - 1)}v_{\text{right}}$​
-
-Thus, if $v_{\text{right}}$ is known or chosen, $v_{\text{left}}$​ can be calculated, and vice versa. The ratio between $v_{\text{left}}$ and $v_{\text{right}}$​ determines the turning radius equivalent to the steering angle $\theta$ in an Ackermann system.

@@ -13,3 +13,11 @@ See connected USB devices
 Whenever there is no access, add:
 - `sudo`
 - Then the password
+
+Shortcut to Brandon_128 from Mac:
+
+```bash
+cd ..
+cd ..
+cd Volumes/Brandon_128/Masters/
+```

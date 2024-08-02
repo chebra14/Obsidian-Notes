@@ -26,7 +26,7 @@ Eg. git@github.com:chebra14/git101.git
 ```bash
 cd OneDrive\ -\ Stellenbosch\ University
 cd Masters
-cd Masters\ Notes-Brandon’s\ MacBook\ Pro
+cd Notes
 ```
 
 ```bash

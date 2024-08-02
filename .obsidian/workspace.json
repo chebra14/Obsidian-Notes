@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Notes/Semester 1/Term 2/July/22_07 - 26_07.md",
+                "file": "Weekly Notes/Semester 2/Term 3/July/29_07 - 02_08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99700aaa2b317348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Notes/Semester 2/Term 3/August/05_08 - 09_08.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +44,7 @@
             }
           },
           {
-            "id": "e9e707b9711957ce",
+            "id": "d84c8367f8ea15c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Notes/Semester 1/Term 2/July/22_07 - 26_07.md",
+                "file": "Tools and Skills/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Notes/Semester 1/Term 2/July/22_07 - 26_07.md",
+                "file": "Tools and Skills/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Notes/Semester 1/Term 2/July/22_07 - 26_07.md"
+                "file": "Tools and Skills/Git.md"
               }
             }
           }
@@ -170,12 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0703f98692e2d63",
+  "active": "d84c8367f8ea15c5",
   "lastOpenFiles": [
+    "Weekly Notes/Semester 2/Term 3/July/29_07 - 02_08.md",
     "Admin/Information Workflow Map.md",
     "Tools and Skills/Git.md",
-    "Weekly Notes/Semester 1/Term 2/July/15_07 - 19_07.md",
+    "Weekly Notes/Semester 2/Term 3/August/05_08 - 09_08.md",
+    "Practical Notes/Baby Voyager/Building The Baby Voyager.md",
+    "Practical Notes/Baby Voyager",
+    "Tools and Skills/Terminal.md",
+    "Weekly Notes/Semester 2/Term 3/August",
+    "Tools and Skills/Shortcuts.md",
+    "Tools and Skills/Python.md",
+    "Research Notes/Autonomous Vehicles/AutoRally.md",
+    "Research Notes/F1Tenth/Ackermann to Skid Steer.md",
+    "Weekly Notes/Semester 2/Term 3/July/22_07 - 26_07.md",
+    "Research Notes/F1Tenth/RC Car Differential.md",
+    "Admin/Attachments/Traxxas 4WD.png",
+    "Research Notes/My Notes/Resources.md",
+    "Weekly Notes/Semester 1/Term 2/July/29_07 - 02_08.md",
     "Weekly Notes/Semester 1/Term 2/July/22_07 - 26_07.md",
+    "Weekly Notes/Semester 1/Term 2/July/15_07 - 19_07.md",
     "Practical Notes/F1Tenth/Getting the Car Race Ready.md",
     "Practical Notes/F1Tenth/Driving the Car.md",
     "Practical Notes/F1Tenth/F1Tenth Ros/Creating ROS 2 nodes.md",
@@ -184,25 +212,13 @@
     "Admin/Attachments/Screenshot 2024-07-22 at 9.29.50 AM.png",
     "Practical Notes/AutoRally",
     "Practical Notes/F1Tenth",
-    "Tools and Skills/Python.md",
     "Weekly Notes/Semester 1/Term 2/July/08_07 - 12_07.md",
     "Weekly Notes/Semester 1/Term 2/July/01_07 - 05_07.md",
     "Admin/Long Term To-Do.md",
     "Research Notes/Racing/The Racing and High-Perf. Tire.md",
     "Weekly Notes/Semester 1/Term 2/June/24_06 - 28_06.md",
     "Tools and Skills/Obsidian.md",
-    "Weekly Notes/Semester 1/Term 2/June/17_06 - 21_06.md",
     "Admin/Attachments/Traxxas Charger.jpeg",
-    "Tools and Skills/Shortcuts.md",
-    "Tools and Skills/MATLAB.md",
-    "Admin/Notes Standards Map.md",
-    "Research Notes/My Notes/Resources.md",
-    "Weekly Notes/Semester 1/Term 2/June/10_06 - 14_06.md",
-    "Tools and Skills/Terminal.md",
-    "Tools and Skills/ROS2/ROS2 Robot Notes.md",
-    "Tools and Skills/ROS2/ROS2 Udemy Course.md",
-    "Tools and Skills/ROS2/ROS2 Intro.md",
-    "Research Notes/Racing/Understeer in F1.md",
     "Research Notes/My Notes/My Focus.pdf",
     "Research Notes/Autonomous Vehicles/Andrew's First Diagram.pdf",
     "Research Notes/Simulation",
@@ -210,8 +226,6 @@
     "Research Notes/F1Tenth",
     "Admin/Attachments/Research Workflow.PNG",
     "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
-    "Obsidian",
-    "Simulation Notes/ROS",
     "Admin/Attachments/Screenshot 2024-02-05 at 09.58.53.png"
   ]
 }
