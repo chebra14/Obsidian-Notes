@@ -31,6 +31,10 @@ estimate of position, velocity, and orientation can be obtained. This state info
 for many advanced control systems.
 ### MPPI
 
+Model Predictive Path Integral Control
+
+https://www.youtube.com/watch?v=1AR2-OHCxsQ
+
 "MPPI uses a dynamics model and cost function to generate control plans by optimising over trajectory roll-outs in real time using GPU computing."
 
 Cost:

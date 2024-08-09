@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0703f98692e2d63",
+            "id": "9f457b69ca70cdb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Notes/Semester 2/Term 3/July/29_07 - 02_08.md",
+                "file": "Tools and Skills/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99700aaa2b317348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Notes/Semester 2/Term 3/August/05_08 - 09_08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f63ab57792b59a88",
+            "id": "ad53f6748b4aaf42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +32,14 @@
             }
           },
           {
-            "id": "d84c8367f8ea15c5",
+            "id": "aba09def882bcbe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools and Skills/Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,20 +166,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84c8367f8ea15c5",
+  "active": "9f457b69ca70cdb3",
   "lastOpenFiles": [
-    "Weekly Notes/Semester 2/Term 3/July/29_07 - 02_08.md",
-    "Admin/Information Workflow Map.md",
-    "Tools and Skills/Git.md",
     "Weekly Notes/Semester 2/Term 3/August/05_08 - 09_08.md",
+    "Weekly Notes/Semester 2/Term 3/August/12_08 - 16_08.md",
+    "Admin/Information Workflow Map.md",
+    "Research Notes/Limit Control/Slip Identification/Anomaly Detection.md",
+    "Research Notes/Limit Control/Slip Identification/IMU and Wheel Speed Based Slip Identifcation.md",
     "Practical Notes/Baby Voyager/Building The Baby Voyager.md",
+    "Admin/Attachments/BV_v1_esp32.jpeg",
+    "Research Notes/F1Tenth/Ackermann to Skid Steer.md",
+    "Practical Notes/AutoRally/AutoRally and MPPI.md",
+    "Research Notes/Autonomous Vehicles/MAP Controller.md",
+    "Research Notes/Autonomous Vehicles/Introduction to Trajectory Optimization.md",
+    "Research Notes/Autonomous Vehicles/Andrew's First Diagram.pdf",
+    "Weekly Notes/Semester 2/Term 3/July/29_07 - 02_08.md",
+    "Research Notes/Limit Control",
+    "Research Notes/Limit Control/Slip Identification",
+    "Tools and Skills/Git.md",
+    "Research Notes/Autonomous Vehicles/AutoRally.md",
     "Practical Notes/Baby Voyager",
     "Tools and Skills/Terminal.md",
     "Weekly Notes/Semester 2/Term 3/August",
     "Tools and Skills/Shortcuts.md",
     "Tools and Skills/Python.md",
-    "Research Notes/Autonomous Vehicles/AutoRally.md",
-    "Research Notes/F1Tenth/Ackermann to Skid Steer.md",
     "Weekly Notes/Semester 2/Term 3/July/22_07 - 26_07.md",
     "Research Notes/F1Tenth/RC Car Differential.md",
     "Admin/Attachments/Traxxas 4WD.png",
@@ -207,25 +200,16 @@
     "Practical Notes/F1Tenth/Getting the Car Race Ready.md",
     "Practical Notes/F1Tenth/Driving the Car.md",
     "Practical Notes/F1Tenth/F1Tenth Ros/Creating ROS 2 nodes.md",
-    "Practical Notes/AutoRally/AutoRally and MPPI.md",
     "Admin/Attachments/AutoRally Fig_1.png",
     "Admin/Attachments/Screenshot 2024-07-22 at 9.29.50 AM.png",
     "Practical Notes/AutoRally",
     "Practical Notes/F1Tenth",
     "Weekly Notes/Semester 1/Term 2/July/08_07 - 12_07.md",
-    "Weekly Notes/Semester 1/Term 2/July/01_07 - 05_07.md",
-    "Admin/Long Term To-Do.md",
-    "Research Notes/Racing/The Racing and High-Perf. Tire.md",
-    "Weekly Notes/Semester 1/Term 2/June/24_06 - 28_06.md",
-    "Tools and Skills/Obsidian.md",
     "Admin/Attachments/Traxxas Charger.jpeg",
     "Research Notes/My Notes/My Focus.pdf",
-    "Research Notes/Autonomous Vehicles/Andrew's First Diagram.pdf",
     "Research Notes/Simulation",
     "Research Notes/Autonomous Vehicles",
-    "Research Notes/F1Tenth",
     "Admin/Attachments/Research Workflow.PNG",
-    "Admin/Introduction to F1Tenth Racing Research 2024.pdf",
     "Admin/Attachments/Screenshot 2024-02-05 at 09.58.53.png"
   ]
 }
